@@ -10,3 +10,7 @@ Pipfile.lock
 
 # Ignore VS Code files
 .vscode/
+
+# Ignore cache directory
+cache/
+__pycache__/
