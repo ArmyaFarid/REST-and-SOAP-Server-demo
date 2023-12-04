@@ -1,0 +1,12 @@
+# Ignore Python virtual environment files
+env/
+
+# Ignore pipenv files
+Pipfile
+Pipfile.lock
+
+# Ignore PyCharm files
+.idea/
+
+# Ignore VS Code files
+.vscode/
